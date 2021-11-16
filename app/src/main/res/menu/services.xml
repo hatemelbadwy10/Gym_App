@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/contact"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="@string/sercive1" />
+    <item
+        android:id="@+id/branches"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/service2" />
+
+    <item
+        android:id="@+id/bmi"
+        android:icon="@drawable/bmi"
+        android:title="@string/service3" />
+</menu>

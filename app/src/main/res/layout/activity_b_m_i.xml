@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BMI" >
+
+    <TextView
+        android:id="@+id/heightseekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/height_text"
+        style="@style/exercise_name"
+        />
+
+    <SeekBar
+        android:id="@+id/heightbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/heightvalue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        style="@style/exercise_detils"
+        />
+
+    <TextView
+        android:id="@+id/wightseekbaar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/weight_text"
+        style="@style/exercise_name"/>
+
+    <SeekBar
+        android:id="@+id/wieghtbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/wightvalue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        style="@style/exercise_detils"
+        />
+
+    <Button
+        android:id="@+id/calculate"
+        android:onClick="calculte_bmi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_text"
+        android:textColor="@color/text_color"
+        style="@style/exercise_name"
+        />
+
+    <TextView
+        android:id="@+id/rsult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        style="@style/exercise_name"
+        />
+</LinearLayout>

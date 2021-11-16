@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Gym_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tx1_chext">Cable Crossover</string>
+    <string name="tx2_chext">Stand between two facing cable stations with both pulleys set midway between the top and bottom of the station. Attach a D-handle to each pulley and hold one in each hand. Keep your elbows slightly bent, and step forward so there’s tension on the cables. Flex your pecs as you bring your hands together out in front of your chest. Alternate stretching and flexing after each set.</string>
+    <string name="tx1_chest2">Barbell Bench Press</string>
+    <string name="tx2_chest2">Grasp the bar just outside shoulder-width and arch your back so there’s space between your lower back and the bench. Pull the bar out of the rack and lower it to your sternum, tucking your elbows about 45° to your sides. When the bar touches your body, drive your feet hard into the floor and press the bar back up.</string>
+    <string name="tx1_chest3">Chest Press Machine</string>
+    <string name="tx2_chest3">Load plates on both sides of a flat-press machine, and adjust the seat so that both of your feet are flat on the floor. Grasp the handles and press to a full lockout.</string>
+    <string name="tx1_chest4">Low-Incline Press</string>
+    <string name="tx2_chest4">Set an adjustable bench to an incline of no more than 30°, or rest a flat bench on a weight plate or mat to tilt it slightly. Grasp the bar just outside shoulder-width, and arch your back so there’s space between your lower back and the bench. Pull the bar out of the rack and lower it to your sternum, tucking your elbows about 45° to your sides. When the bar touches your body, drive your feet hard into the floor and press the bar back up.</string>
+    <string name="tx1_arm1">Arnold Press</string>
+    <string name="tx2_arm1">Stand with feet shoulder-width apart, a soft bend in your knees, holding dumbbells in front of your forehead, elbows at 90 degrees and palms facing you. Slowly open your arms wide so elbows are still at right angles but hands are now facing out, squeezing your shoulder blades together as you perform a military press (shown). Reverse the pattern. That’s 1 rep. Repeat.</string>
+    <string name="tx1_arm2">Strict Curl</string>
+    <string name="tx2_arm2">Stand with feet shoulder-width apart, arms extended straight down with dumbbells at your sides, palms facing one another, and your back against a wall, to start. Perform alternating curls by rotating your forearms and flexing the elbows. Squeeze your biceps at the top, then lower back to the start position. That’s 1 rep. Alternate sides.</string>
+    <string name="tx1_arm3">Lateral Lunge</string>
+    <string name="tx2_arm3">Stand with feet shoulder-width apart, holding a dumbbell in each hand, palms facing one another, to start. Step laterally to one side, bending this knee to come into a lunge as you lower the dumbbells toward the ground. Drive through your foot to return to the starting position. That’s 1 rep. Repeat, then switch sides.</string>
+    <string name="tx1_arm4">Bulgarian Split Squat</string>
+    <string name="tx2_arm4">Stand lunge-length in front of a bench with a dumbbell in each hand and rest the top of your left foot on the bench behind you, to start. Lower your body until your rear knee nearly touches the floor and your front thigh is parallel to the floor, then drive through your front foot to return to start. That’s 1 rep. Repeat.</string>
+    <string name="tx1_abs1">Swimming</string>
+    <string name="tx2_abs1">Lie on stomach, with legs, torso, and arms farming a straight line, holding a yoga block horizontally. Inhale, then exhale and lift chest, arms, and legs off floor to start. Inhale while lifting and lowering legs, like a swimmer’s kick, for 5 pulses. Exhale and repeat sequence—20 pulses total—for 1 rep. Inhale, then exhale and lower entire body to the mat.</string>
+    <string name="tx1_abs2">Hundred</string>
+    <string name="tx2_abs2">Lie on floor with legs raised, knees bent 90 degrees, shins parallel to floor, a resistance band behind arches of feet and holding other ends, arms along torso. Exhale, lift shoulders off floor, press rib cage into mat, and extend legs to start. Inhale for 5 pulses, while performing small beats with arms, initiating from shoulders. Continue with an exhale for 5 pulses. Repeat for 10 reps or 100 pulses.</string>
+    <string name="tx1_abs3">Double Leg Stretch</string>
+    <string name="tx2_abs3">Lie on floor, then raise head, neck, and shoulders; raise legs, bending knees at 90 degrees, shins parallel to the floor to start. Inhale and point fingertips toward heels, then exhale, extend legs so they are at a 45-degree angle to the floor, and reach fingertips behind head. Inhale to return to the start for 1 rep.</string>
+    <string name="tx1_abs4">Cycling/Mountain Biking</string>
+    <string name="tx2_abs4">Power generation is the name of the game. Yes, you absolutely have to do due diligence with lifting, and working on explosive power and balance. These Pilates moves magnify all that hard work by training your arms and torso to work together and support the legs. It’s the sort of power that comes in handy when you’re in attack position.</string>
+    <string name="tx1_legs1">Isometrics</string>
+    <string name="tx2_legs1">Start from a half-kneeling position with your left knee back and resting on the floor and right foot planted. Drive through your right heel and lift your left knee 2-3 inches off the floor. Hold for 10 seconds before returning the knee to floor. Rest for 10 seconds. Perform 3 reps on each leg before switching sides. Do this move before weighted split squats.</string>
+    <string name="tx1_legs2">Compound Triset</string>
+    <string name="tx2_legs2">Holding the end of a heavy dumbbell or handle of a kettlebell racked at chest, elbows in, step right foot back. Bend front knee to 90 degrees to perform a split squat (your back leg will bend but not load any weight; this is the difference between a split squat and lunge). Perform 10 reps on each leg.</string>
+    <string name="tx1_legs3">Unilateral Kettlebell Work</string>
+    <string name="tx2_legs3">Place ball of right foot on a box (12” high) or bench behind you. Your left knee (in front) should be stacked directly over left ankle, and your hips should be square. Hold a kettlebell at chest height, then bend knees (front will bend more than back), coming into an elevated split squat. Drive through your front heel, squeezing your glutes to return to starting position. Repeat for 30 seconds of work, then rest for 15 seconds before switching sides.</string>
+    <string name="tx1_legs4">Lower-Body Glider Workout</string>
+    <string name="tx2_legs4">Set up a glider under your left foot. Bend right leg into a lunge position, hinging at the hips. The glider will allow the left leg to glide straight behind you as you bend into your lunge. Drive through your right leg to extend back up to starting position.</string>
+    <string name="header">welcome our client</string>
+    <string name="sercive1">contact us</string>
+    <string name="service2">our branches</string>
+    <string name="service3">BMI Calc</string>
+    <string name="button_text"> calculate</string>
+    <string name="height_text">height</string>
+    <string name="weight_text">weight</string>
+</resources>
